@@ -21,7 +21,7 @@
 
 ## 目录结构
 
-```plaintext
+"""plaintext
 /data                  # 存放输入的文本文件、PDF、Markdown等文档
 /models                # 存放预训练模型
 /vectorstore           # 存储向量数据库
@@ -29,7 +29,7 @@
 /ingest.py             # 用于文档加载和向量数据库构建
 /qa.py                 # 处理用户查询并生成答案
 /requirements.txt      # 项目依赖
-/README.md             # 项目的说明文件
+/README.md             # 项目的说明文件"""
 
 ### 安装与使用
 ## 安装依赖
