@@ -1,0 +1,7 @@
+langchain
+faiss-gpu
+unstructured
+PyMuPDF
+sentence-transformers
+scikit-learn
+ollama
